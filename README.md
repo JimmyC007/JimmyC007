@@ -4,9 +4,9 @@
 
 💡 &nbsp;I like to explore new technologies and how they can be used to solve real world problems.\
 🎓 &nbsp;I studied Data Analytics at the University of Waikato, New Zealand.\
-🌱 &nbsp;I'm currently working on a program that wokrs out the most efficient way to bat in cricket.\
+🌱 &nbsp;I'm currently working on a program that finds the most efficient way to bat in a cricket match.\
 🏏 &nbsp;In my free time, I play football and watch any sport I can get my hands on.\
-✉️ &nbsp;You can shoot me an email at jrcarroll01@icloud.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can flick me an email at jrcarroll01@icloud.com! I'll try to respond as soon as I can.
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
